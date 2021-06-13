@@ -1,0 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+
+*{
+    margin:0;
+}
+
+
+body{
+    font-family:'Calistoga',cursive;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: turquoise;
+    
+}
+.a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.nav-link{
+    color: red;
+}
+
+header{
+    background: url(https://i1.faceprep.in/cartoon-background.png);
+    background-size: cover;
+    padding: 200px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1{
+    font-size: 4em;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 2em;
+}
+h4{
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+section, p, img{
+    padding: 10px;
+}
+#tomjerry{
+    background-color: #fab201;
+}
+#shinchan{
+    background-color: #fb4f93;
+}
+#pokemon{
+    background-color: #00c7da;
+}
+
+img{
+    border: 5px solid white;
+}
+
+h3{
+    font-size: 2em;
+}
+
+.cartoons{
+    color: white;
+    padding: 70px;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+    margin: auto;
+}
